@@ -1,6 +1,7 @@
 <p align="center">
-	<img src="assets/misha.png" width="200" height="200">
+	<img src="assets/misha.png" width="500" height="350">
 </p>
+
 # Misha
 
 Misha Bot is a discord bot for the community. It will include features like music, games and much more. 

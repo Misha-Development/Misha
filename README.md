@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="assets/misha.png" width="1000" height="350">
+	<img src="assets/misha.png" width="1000" height="450">
 </p>
 
 # Misha

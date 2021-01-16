@@ -10,5 +10,11 @@ Please stay tuned for the latest updates.
 # Invite Bot
 If you want to invite Misha to your discord please click: [Here](#)
 
+# Usage
+Open a terminal and type the following
+~~~
+pipenv run misha
+~~~
+
 # Contributions
 If you want to start contributing to this project, please see [contributing.md](CONTRIBUTING.md)
